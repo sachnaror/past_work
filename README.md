@@ -62,10 +62,9 @@ Found a bug? Want to collaborate? Just want to say hi?
 
 ## 🎉 Fun Facts
 
-- This portfolio is powered by beer or tea and determination
+- This portfolio is powered by a bed-tea in zombie-mood early morning 5 am
 - No pixels were harmed in the making of these designs
 - The URLs/Links above tested... mostly
-- Documentation was written before early moring tea (please forgive any typos)
 
 ## 📜 License
 
