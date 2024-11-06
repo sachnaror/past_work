@@ -4,7 +4,7 @@
 [![Portfolio Status](https://img.shields.io/badge/Portfolio%20Status-Growing-green)](https://github.com/sachnaror)
 [![Bug Status](https://img.shields.io/badge/Bugs-Probably%20Some-yellow)](https://github.com/sachnaror)
 
-## 👋 The story behind this Github repo (i.e. this portfolio or work-samples page)
+## 👋 The story behind this work-samples
 
 🚀 Someone asked my past samples of work and i was too lazy to create domain or  subdomain page for this and host it on server and send the link, Sending portfolio by email, xls sheet, work doc, dropbox, gdrive link is passe', ancient and stone-aged. So, Github Pages came to my mind as a rescue option, live in 15 mins flat. 🎨💻✨
 
@@ -21,13 +21,14 @@
 
 ```
 Python + JS + any DB (i prefer PostgreSQL) = Magic ✨
-
+```
+```
 Gitlab/Github for (WiKi, Projects, Issues, Pages, Releases).
 Figma.
 Custom Analytics (daily, weekly, monthly, quarterly)
 GTags
-
 ```
+
 
 ## 🎯 Quick Navigation
 
