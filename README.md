@@ -4,7 +4,7 @@
 [![Bug Status](https://img.shields.io/badge/Bugs-Probably%20Some-yellow)](https://github.com/sachnaror)
 [![Tea Count](https://img.shields.io/badge/Coffee%20Consumed-∞-brown)](https://buymeacoffee.com)
 
-## 👋 The story behind this work-samples Github repo
+## 👋 The story behind this Github repo
 
 🚀 Someone asked my past samples of work and i was too lazy to create domain or  subdomain page for this and host it on server and send the link, Sending portfolio by email, xls sheet, work doc, dropbox, gdrive link is passe', ancient and stone-aged. So, Github Pages came to my mind as a rescue option, live in 15 mins flat. 🎨💻✨
 
@@ -62,7 +62,7 @@ Found a bug? Want to collaborate? Just want to say hi?
 
 - This portfolio is powered by a bed-tea in zombie-mood early morning 5 am
 - No pixels were harmed in the making of these designs
-- All URLs/Links above were tested... mostly
+- All URLs/Links above, were tested... mostly
 
 ## 📜 License
 
