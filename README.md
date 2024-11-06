@@ -1,8 +1,8 @@
 # 🚀 My past work samples
 
-[![Tea Count](https://img.shields.io/badge/Coffee%20Consumed-∞-brown)](https://buymeacoffee.com)
 [![Portfolio Status](https://img.shields.io/badge/Portfolio%20Status-Growing-green)](https://github.com/sachnaror)
 [![Bug Status](https://img.shields.io/badge/Bugs-Probably%20Some-yellow)](https://github.com/sachnaror)
+[![Tea Count](https://img.shields.io/badge/Coffee%20Consumed-∞-brown)](https://buymeacoffee.com)
 
 ## 👋 The story behind this work-samples Github repo
 
