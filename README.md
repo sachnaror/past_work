@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Digital Garden!
+# 🚀 My past work samples
 
 [![Tea Count](https://img.shields.io/badge/Coffee%20Consumed-∞-brown)](https://buymeacoffee.com)
 [![Portfolio Status](https://img.shields.io/badge/Portfolio%20Status-Growing-green)](https://github.com/sachnaror)
