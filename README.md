@@ -71,6 +71,6 @@ Feel free to look, be inspired, but please don't copy-paste your way to success!
 ---
 
 > "Any sufficiently advanced HTML CSS is indistinguishable from magic."
-> - Arthur C. Clarke (probably)
+> - Sachin (me, ofcourse)
 
 *Made with ❤️ . Last updated : early morning 5:30 am  (Wed, 6th Nov 2024) ☕*
