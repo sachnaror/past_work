@@ -62,7 +62,7 @@ Found a bug? Want to collaborate? Just want to say hi?
 
 - This portfolio is powered by a bed-tea in zombie-mood early morning 5 am
 - No pixels were harmed in the making of these designs
-- The URLs/Links above tested... mostly
+- All URLs/Links above were tested... mostly
 
 ## 📜 License
 
