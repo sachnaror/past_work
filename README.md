@@ -22,6 +22,8 @@
 ```
 Python + JS + any DB (i prefer PostgreSQL) = Magic ✨
 ```
+
+## 🔧 Product Management Stack
 ```
 Gitlab/Github for (WiKi, Projects, Issues, Pages, Releases).
 Figma.
